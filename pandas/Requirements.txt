@@ -1,0 +1,3 @@
+Pandas == 2.3.3
+Numpy == 2.3.5
+statsmodels == 0.14.5
